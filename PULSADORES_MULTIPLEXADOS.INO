@@ -1,9 +1,3 @@
-/*
-    Cómo se conectan los pulsadores a las centralitas en vehículos.
-
-*/
-
-
 // Definición de macros para las resistencias y el voltaje de referencia
 #define V_IN 5.0            // Voltaje de entrada (VCC)
 #define R_REF 10000.0       // Resistencia de referencia en ohmios (10kΩ)
